@@ -12,6 +12,7 @@ text-align: center;
 padding: 10px 10px;
 font-size: 20px;
 font-weight: 600;
+line-height: 25px;
 }
 .form, .form1 {
 	padding: 30px;
@@ -30,6 +31,8 @@ font-weight: 600;
 .form__input {
 	height: 40px;
 	padding: 0px 15px;
+	font-size: 25px;
+	font-weight: 600;
 }
 .form__result, .form__result2 {
 	font-size: 30px;
