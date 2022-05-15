@@ -1,0 +1,44 @@
+*,
+*::after
+*::before{
+	box-sizing :border-box;
+}
+body{
+	height: 100%;
+	background-color: gray;
+}
+.title{
+text-align: center;
+padding: 10px 10px;
+font-size: 20px;
+font-weight: 600;
+}
+.form, .form1 {
+	padding: 30px;
+	background-color: #794f45;
+	color: #fff;
+}
+.form__line {
+	display: flex;
+	flex-direction: column;
+	margin: 0px 0px 30px 0px;
+}
+.form__label {
+	font-size: 20px;
+	margin: 0px 0px 10px 0px;
+}
+.form__input {
+	height: 40px;
+	padding: 0px 15px;
+}
+.form__result, .form__result2 {
+	font-size: 30px;
+	margin: 0px 0px 30px 0px;
+}
+.form__button {
+}
+.button {
+	padding: 15px 20px;
+	font-size: 20px;
+	background-color: yellow;
+}
