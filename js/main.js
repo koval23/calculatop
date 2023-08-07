@@ -24,9 +24,6 @@ if (form1) {
 	});
 }
 
-
-
-
 function getSumm(numOne, numTwo) {
 	return Number(numOne) * Number(numTwo);
 }
